@@ -1,8 +1,8 @@
 # 👋 Introduction :
-Hi I'm Nacer, a JS/C++ developer from Grenoble. Currently, I'm in my second year of studying for a Bachelor's degree in **Computer Science** at IUT2 Grenoble. I'm involved in various projects, but I have a particular interest in web development. I work with **Vue.js**, **Nuxt.js**, **C#**, and **JavaScript** in general. If you have any questions, don't hesitate to contact me !
+Hi I'm Nacer, a Full Stack developer from Grenoble. I'm a **Computer Science** Bachelor graduate from IUT2 Grenoble and currently pursuing a Master's degree in Full Stack Development at Ynov Campus Paris. I'm involved in various projects, with a particular passion for web development. My go-to stack is **Svelte/SvelteKit** with **Prisma ORM** and **PostgreSQL**. I also work with **JavaScript/TypeScript**, **Python**, and **C++**. If you have any questions, don't hesitate to contact me !
 
 # 💫 About Me:
-🔭 I’m currently working on the HoodKnights projects (HK Studio & Knights Store)<br>🌱 I’m currently learning Svelte 5 & NuxtJS
+🔭 I'm currently working on **dot**, a massive open-source ecosystem of integrated tools<br>🌱 I'm currently learning advanced AI integration and DevOps practices<br>💼 I have 2+ years of confirmed experience in Full Stack development with expertise in ERP architecture and AI integration
 
 
 ## 🌐 Socials:
